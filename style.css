@@ -1,0 +1,48 @@
+/* roboto */
+*{
+    font-family: 'Roboto', sans-serif;
+    color: 363958;
+}
+
+/* bebas neue */
+h1,span{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 60px;
+
+}
+
+header{
+    
+    background-color: #FFFBF0;
+}
+.woman-jacket img{
+    background-color: #F1F1F1;
+    height:500px;
+}
+.Penguin-card-footer{
+    background-color: white;
+    border: 0;
+}
+.Penguin-card{
+    border: 0;
+    box-shadow: 5px 5px  20px gray;
+}
+.buttonc{
+    background-color: #A4BC46;
+    border: 0;
+
+
+}
+h2, span{
+    color: #FABE4C;
+
+}
+
+.last{
+    box-shadow: 1px 1px 10px gray;
+    border-radius: 5px;
+    height: 10em;
+   margin-bottom: 2em;
+    
+}
+
